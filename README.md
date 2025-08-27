@@ -1,3 +1,3 @@
-# Omnidirectional-onveyor
+# Omnidirectional-Сonveyor
 
 Репозиторий с кодом используемым в проекте - Всенаправленный конвейер
